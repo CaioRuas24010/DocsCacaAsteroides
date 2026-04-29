@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Caça Asteroides MCTI',
   tagline: 'Documentação oficial',
-  favicon: 'caca-favicon.png',
+  favicon: '/img/caca-favicon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -36,9 +36,14 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+  defaultLocale: 'pt-BR',
+  locales: ['pt-BR'],
+  localeConfigs: {
+    'pt-BR': {
+      htmlLang: 'pt-BR',
+    },
   },
+},
 
   presets: [
     [

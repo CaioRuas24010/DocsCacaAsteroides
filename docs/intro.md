@@ -9,7 +9,7 @@ Bem-vindo à documentação de apoio para participantes do Programa Caça Astero
 
 Este site foi criado para funcionar como um guia de consulta rápida durante a formação e durante as atividades práticas. Em vez de depender de materiais estáticos e difíceis de atualizar, esta documentação reúne orientações, procedimentos e respostas para dúvidas frequentes em um só lugar.
 
-<span style={{backgroundColor: '#b4f9f7', padding: '0.1rem 0.25rem'}}>🔎 É possível utilizar a pesquisa no canto superior direito para buscar um assunto específico, como um erro que você está enfrentando ou uma etapa do processo. 🔍</span>
+<span style={{backgroundColor: '#acb804', padding: '0.1rem 0.25rem'}}>🔎 É possível utilizar a pesquisa no canto superior direito para buscar um assunto específico, como um erro que você está enfrentando ou uma etapa do processo. 🔍</span>
 
 ## O que você vai encontrar aqui
 
