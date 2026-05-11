@@ -1,9 +1,9 @@
 # Documentação Caça Asteroides MCTI
 
-### 🇧🇷 Português
+### :🇧🇷: Português
 Site de documentação do programa **Caça Asteroides MCTI**, desenvolvido em **Docusaurus** para apoiar participantes durante o processo de instalação, configuração, análise de imagens e envio de relatórios.
 
-### 🇬🇧 English
+### :🇬🇧: English
 Documentation website for the **MCTI Asteroid Hunt Program**, built with **Docusaurus** to support participants during installation, configuration, image analysis, and report submission. If you are a english speaker, you can still use the documentation by selecting the English language option in the top right corner of the website. However, please note that the English version may not be fully updated and may contain some outdated information, as the documentation is primarily maintained in Portuguese.
 
 ## Objetivo
