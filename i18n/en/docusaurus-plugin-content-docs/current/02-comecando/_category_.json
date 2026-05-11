@@ -1,0 +1,9 @@
+{
+  "label": "Starting",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "Starting",
+    "description": "Prepare the environment, check the requirements, and follow the first steps to get started in the program."
+  }
+}

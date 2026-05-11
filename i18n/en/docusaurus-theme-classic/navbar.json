@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Caça Asteroides MCTI",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Logo Caça Asteroides",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Erros comuns": {
+    "message": "Commom issues",
+    "description": "Navbar item with label Erros comuns"
+  },
+  "item.label.IASC": {
+    "message": "IASC",
+    "description": "Navbar item with label IASC"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Começando": {
+    "message": "Starting",
+    "description": "The label for category 'Começando' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Começando.link.generated-index.title": {
+    "message": "Starting",
+    "description": "The generated-index page title for category 'Começando' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Começando.link.generated-index.description": {
+    "message": "Prepare the environment, check the requirements, and follow the first steps to get started in the program.",
+    "description": "The generated-index page description for category 'Começando' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Analisando Imagens": {
+    "message": "Analyzing Images",
+    "description": "The label for category 'Analisando Imagens' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Analisando Imagens.link.generated-index.title": {
+    "message": "Analyzing Images",
+    "description": "The generated-index page title for category 'Analisando Imagens' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Analisando Imagens.link.generated-index.description": {
+    "message": "See how to download the images, analyze them, and submit the report of your findings.",
+    "description": "The generated-index page description for category 'Analisando Imagens' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Apoio": {
+    "message": "Support",
+    "description": "The label for category 'Apoio' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Apoio.link.generated-index.title": {
+    "message": "Support",
+    "description": "The generated-index page title for category 'Apoio' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Apoio.link.generated-index.description": {
+    "message": "Support sections containing information such as support contacts and common issues.",
+    "description": "The generated-index page description for category 'Apoio' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Erros frequentes": {
+    "message": "Commom issues",
+    "description": "The label for category 'Erros frequentes' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Erros frequentes.link.generated-index.title": {
+    "message": "Commom issues",
+    "description": "The generated-index page title for category 'Erros frequentes' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Erros frequentes.link.generated-index.description": {
+    "message": "Common problems faced by participants and how to solve them.",
+    "description": "The generated-index page description for category 'Erros frequentes' in sidebar 'tutorialSidebar'"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "link.title.Documentação": {
+    "message": "Documentation",
+    "description": "The title of the footer links column with title=Documentation in the footer"
+  },
+  "link.title.Links úteis": {
+    "message": "Useful links",
+    "description": "The title of the footer links column with title=Useful links in the footer"
+  },
+  "link.item.label.Início": {
+    "message": "Home",
+    "description": "The label of footer link with label=Home linking to /"
+  },
+  "link.item.label.Imagens": {
+    "message": "Images",
+    "description": "The label of footer link with label=Images linking to /category/analisando-imagens"
+  },
+  "link.item.label.Apoio": {
+    "message": "Support",
+    "description": "The label of footer link with label=Support linking to /category/apoio"
+  },
+  "link.item.label.IASC": {
+    "message": "IASC",
+    "description": "The label of footer link with label=IASC linking to https://iasc.cosmosearch.org/"
+  },
+  "link.item.label.Youtube Caça Asteroides MCTI": {
+    "message": "MCTI Asteroid Hunt YouTube",
+    "description": "The label of footer link with label=MCTI Asteroid Hunt YouTube linking to https://www.youtube.com/@cacaasteroidesmcti3770"
+  },
+  "link.item.label.Instagram Caça Asteroides MCTI": {
+    "message": "MCTI Asteroid Hunt Instagram",
+    "description": "The label of footer link with label=MCTI Asteroid Hunt Instagram linking to https://www.instagram.com/cacaasteroidemcti/"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 MCTI Asteroid Hunt. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

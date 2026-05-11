@@ -37,10 +37,13 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
   defaultLocale: 'pt-BR',
-  locales: ['pt-BR'],
+  locales: ['pt-BR', 'en'],
   localeConfigs: {
     'pt-BR': {
       htmlLang: 'pt-BR',
+    },
+    en: {
+      htmlLang: 'en',
     },
   },
 },
@@ -111,6 +114,10 @@ const config = {
           {
             label: 'Erros comuns',
             to: '/category/erros-frequentes',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right',
           },
           {
             href: 'https://iasc.cosmosearch.org/',
